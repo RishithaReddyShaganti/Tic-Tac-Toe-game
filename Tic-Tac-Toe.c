@@ -19,15 +19,15 @@ int main()
     printf("Player 1: your choice as'O'\nPlayer 2: your choice as 'X'\n");
     printf("enter your choice as  row and column shown below\n");
 
-    printf(" ____ _____ ____\n");
-    printf(" 00  | 01  |02\n");
-    printf(" ___||\n");
+    printf(" ____ ____ ____\n");
+    printf(" 00  | 01 |02\n");
+    printf(" ____|____|____\n");
 
-    printf(" 10  | 11  | 12 \n");
-    printf(" ___||\n");
+    printf(" 10  | 11 | 12 \n");
+    printf(" ____|____|____\n");
 
-    printf(" 20  | 21  | 22 \n");
-    printf(" ___||\n");
+    printf(" 20  | 21 | 22 \n");
+    printf(" ____|____|____\n");
 
     for (i = 1; i <= 9; i++)
 
